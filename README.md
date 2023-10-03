@@ -27,6 +27,8 @@ Running `make run-hdd` will build the kernel and a raw HDD image (equivalent to 
 The `run-uefi` and `run-hdd-uefi` targets are equivalent to their non `-uefi` counterparts except that they boot `qemu` using a UEFI-compatible firmware.
 
 
+# OLD README
+
 
 # Limine Bare Bones
 
